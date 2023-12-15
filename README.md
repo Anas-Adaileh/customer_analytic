@@ -39,8 +39,14 @@ The dataset have good quality attributes, characterized by completeness, accurac
 For the detailed analysis you can access the [Jupyter notebook here](https://github.com/Anas-Adaileh/customer_analytic/blob/main/Customer%20Analytic.ipynb).
 
 ### Dashboard
-You can download the interactive dashboard for this project using [this link](https://drive.google.com/file/d/1ZUPCgakSq0BdFeuVeb2vjmQ0CHaAedAn/view?usp=sharing).
-  
+You can download the interactive dashboard for this project using [this link](https://drive.google.com/file/d/1ZUPCgakSq0BdFeuVeb2vjmQ0CHaAedAn/view?usp=sharing). Snapshot of dashboard:
+
+![Dashboard Preview](https://github.com/Anas-Adaileh/customer_analytic/blob/main/Dashboard.jpg)
+
+View of the data architecture and modeling process 
+
+![Data Modeling Diagram](https://github.com/Anas-Adaileh/customer_analytic/blob/main/Data%20Modeling.jpg).
+
 ## Results
 The project yields insights into customer retention, revenue patterns, and predictive analytics. Results include identified cohort trends, RFM segmentation outcomes, and the performance metrics of machine learning models.
 
