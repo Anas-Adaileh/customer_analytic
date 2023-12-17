@@ -36,7 +36,7 @@ The dataset have good quality attributes, characterized by completeness, accurac
 ## Analysis
 
 ### In-Depth Python Analysis
-For the detailed analysis you can access the [Jupyter notebook here](https://github.com/Anas-Adaileh/customer_analytic/blob/main/Customer%20Analytic.ipynb).
+For the detailed analysis you can access the [Jupyter notebook here](https://github.com/Anas-Adaileh/customer_analytic/blob/main/Python%20Customer%20Analytic%20Notebook.ipynb).
 
 ### Dashboard
 You can download the interactive dashboard for this project using [this link](https://drive.google.com/file/d/1ZUPCgakSq0BdFeuVeb2vjmQ0CHaAedAn/view?usp=sharing). Snapshot of dashboard:
